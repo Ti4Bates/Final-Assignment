@@ -1,0 +1,12 @@
+The following external dependicies are needed in order for the following code to work. Bellow are the instructions to download the necessary packages.
+    Steps:
+        1: Open the terminal of your environment. If you're using Anaconda.navigator this is found in the environments tab, where you can click the big green play button next to your environment and open the terminal.
+        2: The following inputs should be run one at a time, only running the next input after the first one has been sucessfully downloaded.
+                conda install –c anaconda pandas
+                conda install -c anaconda seaborn
+                conda install -c anaconda numpy
+                conda install -c anaconda mattplotlib
+                conda install -c anaconda pingouin
+                conda install -c anaconda scipy.stats
+          
+THE CODE WILL NOT WORK if you have not imported these packages. Please make sure these are imported first.
